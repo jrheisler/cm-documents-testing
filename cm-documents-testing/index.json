@@ -1,0 +1,15 @@
+[
+  {
+    "description": "Sweeney",
+    "meta": "Sweeney draft",
+    "category": "Theater",
+    "title": "MeatPie",
+    "status": "draft",
+    "filename": "MeatPie_Extracted_Text.txt",
+    "createdAt": "2025-08-04T23:03:38.098Z",
+    "lastUpdated": "2025-08-04T23:03:38.098Z",
+    "id": "meatpie",
+    "summary": null,
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-documents-testing/docs/meatpie.txt"
+  }
+]
