@@ -31,5 +31,17 @@
     "lastUpdated": "2025-08-01T16:10:20.468Z",
     "id": "Manor Characters",
     "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-documents-testing/Manor%20Characters"
+  },
+  {
+    "description": "Insurance",
+    "meta": "Home insurance",
+    "category": "Personal",
+    "title": "PolicyDocument-323311629.pdf",
+    "status": "draft",
+    "filename": "PolicyDocument-323311629.pdf",
+    "createdAt": "2025-08-04T15:39:34.393Z",
+    "lastUpdated": "2025-08-04T15:39:34.393Z",
+    "id": "PolicyDocument-323311629.pdf",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-documents-testing/PolicyDocument-323311629.pdf"
   }
 ]
