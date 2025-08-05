@@ -1,0 +1,1105 @@
+{
+  "lib/common_widgets/ask_to_replace_object.dart": [],
+  "lib/common_widgets/loader.dart": [],
+  "lib/common_widgets/my_bottom_sheet.dart": [
+    "my_buttons.dart"
+  ],
+  "lib/common_widgets/my_buttons.dart": [
+    "../screens/common/constants.dart"
+  ],
+  "lib/common_widgets/my_container.dart": [
+    "../screens/common/constants.dart"
+  ],
+  "lib/common_widgets/my_email.dart": [],
+  "lib/common_widgets/my_snackbar.dart": [],
+  "lib/common_widgets/my_text_edit.dart": [
+    "../screens/common/constants.dart"
+  ],
+  "lib/common_widgets/my_vertical_scrollbar.dart": [],
+  "lib/common_widgets/my_web_share.dart": [],
+  "lib/common_widgets/wait_screen.dart": [],
+  "lib/firebase_options.dart": [],
+  "lib/helpers/validators.dart": [],
+  "lib/main.dart": [
+    "firebase_options.dart"
+  ],
+  "lib/models/company.dart": [
+    "../screens/user/company_setting.dart"
+  ],
+  "lib/models/flow.dart": [],
+  "lib/models/globals.dart": [
+    "../screens/business/business_model.dart"
+  ],
+  "lib/models/process_old_model.dart": [],
+  "lib/models/users_model.dart": [],
+  "lib/screens/activity_log/activity_add_edit_screen.dart": [
+    "../common/constants.dart"
+  ],
+  "lib/screens/activity_log/activity_log_view.dart": [
+    "activity_add_edit_screen.dart"
+  ],
+  "lib/screens/activity_log/activity_model.dart": [],
+  "lib/screens/activity_log/get_due_date.dart": [],
+  "lib/screens/activity_log/schedule_add_edit_screen.dart": [
+    "../common/constants.dart",
+    "activity_model.dart"
+  ],
+  "lib/screens/activity_log/schedule_controller.dart": [
+    "activity_model.dart"
+  ],
+  "lib/screens/activity_log/schedule_log_view.dart": [],
+  "lib/screens/admin/build_company_controller.dart": [
+    "build_company_view.dart"
+  ],
+  "lib/screens/admin/build_company_view.dart": [],
+  "lib/screens/admin/company_add_edit_screen.dart": [
+    "../../services/local_storage_helper.dart",
+    "../common/constants.dart"
+  ],
+  "lib/screens/admin/company_view_controller.dart": [
+    "build_company_controller.dart",
+    "company_add_edit_screen.dart"
+  ],
+  "lib/screens/admin/super_admin_dashboard.dart": [
+    "../../services/data_controller.dart",
+    "../../services/git.dart",
+    "../../services/git_services.dart",
+    "../common/adaptive_dialog.dart",
+    "../parking_lot_index/parking_lot_model.dart",
+    "../project/project_model.dart",
+    "company_view_controller.dart"
+  ],
+  "lib/screens/bottom_sheet_edit/bottom_sheet_edit_container.dart": [
+    "../common/constants.dart"
+  ],
+  "lib/screens/builds/build_add_edit_screen.dart": [
+    "../common/constants.dart"
+  ],
+  "lib/screens/builds/build_model.dart": [
+    "../../services/git_services.dart",
+    "../process/process_model.dart"
+  ],
+  "lib/screens/builds/build_process_edit_screen.dart": [
+    "../common/constants.dart",
+    "../process/process_model.dart"
+  ],
+  "lib/screens/builds/build_report_model.dart": [
+    "../process/process_model.dart"
+  ],
+  "lib/screens/builds/report_measurement_model.dart": [],
+  "lib/screens/builds/report_performer_model.dart": [],
+  "lib/screens/builds/report_process_condition_model.dart": [],
+  "lib/screens/builds/report_process_model.dart": [],
+  "lib/screens/build_project_tree.dart": [
+    "common/constants.dart",
+    "bottom_sheet_edit/bottom_sheet_edit_container.dart"
+  ],
+  "lib/screens/business/business_add_edit_screen.dart": [
+    "../common/constants.dart",
+    "../common/poc_add_edit.dart",
+    "master_business_model.dart",
+    "../revise/revise.dart",
+    "multi_pick_business_view_controller.dart"
+  ],
+  "lib/screens/business/business_model.dart": [
+    "../common/constants.dart",
+    "master_business_model.dart"
+  ],
+  "lib/screens/business/business_view_controller.dart": [
+    "master_business_model.dart"
+  ],
+  "lib/screens/business/master_business_model.dart": [
+    "../common/constants.dart",
+    "business_model.dart"
+  ],
+  "lib/screens/business/master_business_view_controller.dart": [
+    "master_business_model.dart"
+  ],
+  "lib/screens/business/multi_pick_business_view_controller.dart": [
+    "business_add_edit_screen.dart",
+    "master_business_model.dart",
+    "../common/multi_pick_view_screen.dart"
+  ],
+  "lib/screens/common/adaptive_dialog.dart": [],
+  "lib/screens/common/alpha_search_container.dart": [
+    "constants.dart"
+  ],
+  "lib/screens/common/bottom_nav.dart": [],
+  "lib/screens/common/confirm_delete.dart": [
+    "constants.dart"
+  ],
+  "lib/screens/common/constants.dart": [],
+  "lib/screens/common/download_file.dart": [],
+  "lib/screens/common/how_many_dots.dart": [],
+  "lib/screens/common/icon_badges.dart": [
+    "adaptive_dialog.dart",
+    "constants.dart"
+  ],
+  "lib/screens/common/multi_pick_view_screen.dart": [],
+  "lib/screens/common/poc_add_edit.dart": [
+    "../../common_widgets/my_container.dart"
+  ],
+  "lib/screens/common/process_types.dart": [],
+  "lib/screens/common/routes.dart": [],
+  "lib/screens/common/sign_out.dart": [
+    "constants.dart"
+  ],
+  "lib/screens/common/view_grid_controller.dart": [],
+  "lib/screens/common/view_grid_screen.dart": [],
+  "lib/screens/common/view_grid_setup.dart": [
+    "constants.dart"
+  ],
+  "lib/screens/common/view_grid_stream.dart": [],
+  "lib/screens/common/view_grid_tiles.dart": [],
+  "lib/screens/common/view_index.dart": [
+    "../../services/git_services.dart",
+    "../used_on/used_on_git_view_controller.dart",
+    "adaptive_dialog.dart",
+    "alpha_search_container.dart"
+  ],
+  "lib/screens/common/view_screen.dart": [
+    "view_stream.dart"
+  ],
+  "lib/screens/common/view_stream.dart": [
+    "alpha_search_container.dart"
+  ],
+  "lib/screens/common/view_tile.dart": [
+    "../../common_widgets/my_container.dart"
+  ],
+  "lib/screens/condition/condition_add_edit_screen.dart": [
+    "../common/constants.dart",
+    "../common/poc_add_edit.dart",
+    "master_conditions_model.dart",
+    "multi_pick_condition_view_controller.dart"
+  ],
+  "lib/screens/condition/condition_edge_controller.dart": [],
+  "lib/screens/condition/condition_model.dart": [
+    "../common/constants.dart",
+    "condition_edge_controller.dart",
+    "master_conditions_model.dart"
+  ],
+  "lib/screens/condition/condition_view_controller.dart": [
+    "condition_add_edit_screen.dart",
+    "condition_model.dart",
+    "master_conditions_model.dart"
+  ],
+  "lib/screens/condition/master_conditions_model.dart": [
+    "../common/constants.dart",
+    "condition_model.dart"
+  ],
+  "lib/screens/condition/master_condition_view_controller.dart": [
+    "condition_add_edit_screen.dart",
+    "master_conditions_model.dart"
+  ],
+  "lib/screens/condition/multi_pick_condition_view_controller.dart": [
+    "../common/multi_pick_view_screen.dart",
+    "condition_model.dart"
+  ],
+  "lib/screens/dashboard/dashboard_add_edit_screen.dart": [
+    "../common/constants.dart"
+  ],
+  "lib/screens/dashboard/dashboard_main_controller.dart": [
+    "dashboard_model.dart"
+  ],
+  "lib/screens/dashboard/dashboard_main_screen.dart": [
+    "../whiteboard/whiteboard_view.dart",
+    "dashboard_main_controller.dart",
+    "dashboard_tiles.dart",
+    "master_dashboard_view_controller.dart"
+  ],
+  "lib/screens/dashboard/dashboard_model.dart": [
+    "../common/constants.dart"
+  ],
+  "lib/screens/dashboard/dashboard_tiles.dart": [
+    "dashboard_add_edit_screen.dart",
+    "dashboard_main_controller.dart"
+  ],
+  "lib/screens/dashboard/master_dashboard_view_controller.dart": [
+    "dashboard_add_edit_screen.dart",
+    "dashboard_model.dart"
+  ],
+  "lib/screens/dashboard/pick_email_user.dart": [],
+  "lib/screens/dashboard/SmallDashboard.dart": [
+    "dashboard_add_edit_screen.dart",
+    "dashboard_main_controller.dart"
+  ],
+  "lib/screens/dictionary/change_option.dart": [],
+  "lib/screens/dictionary/dictionary_model.dart": [],
+  "lib/screens/dictionary/udf_view.dart": [],
+  "lib/screens/equipment/equipment_add_edit_screen.dart": [
+    "../common/constants.dart",
+    "../common/poc_add_edit.dart",
+    "master_equipment_model.dart",
+    "../revise/revise.dart"
+  ],
+  "lib/screens/equipment/equipment_model.dart": [
+    "../common/constants.dart",
+    "master_equipment_model.dart"
+  ],
+  "lib/screens/equipment/equipment_view_controller.dart": [
+    "master_equipment_model.dart"
+  ],
+  "lib/screens/equipment/master_equipment_model.dart": [
+    "../common/constants.dart",
+    "equipment_model.dart"
+  ],
+  "lib/screens/equipment/master_equipment_view_controller.dart": [
+    "equipment_add_edit_screen.dart",
+    "master_equipment_model.dart"
+  ],
+  "lib/screens/equipment/multi_pick_equipment_view_controller.dart": [
+    "../common/multi_pick_view_screen.dart",
+    "equipment_add_edit_screen.dart"
+  ],
+  "lib/screens/factory/factory_add_edit_screen.dart": [
+    "../common/constants.dart"
+  ],
+  "lib/screens/factory/factory_item_model.dart": [],
+  "lib/screens/factory/factory_main_controller.dart": [
+    "../../services/local_storage_helper.dart",
+    "../common/adaptive_dialog.dart",
+    "factory_item_model.dart",
+    "factory_model.dart"
+  ],
+  "lib/screens/factory/factory_main_screen.dart": [
+    "../../services/local_storage_helper.dart",
+    "factory_item_model.dart"
+  ],
+  "lib/screens/factory/factory_model.dart": [
+    "../common/constants.dart"
+  ],
+  "lib/screens/factory/pick_factory_view_controller.dart": [
+    "factory_main_controller.dart",
+    "factory_model.dart"
+  ],
+  "lib/screens/factory/pick_generation_view_controller.dart": [],
+  "lib/screens/factory/pick_transfer_factory_view_controller.dart": [
+    "factory_main_controller.dart",
+    "factory_model.dart"
+  ],
+  "lib/screens/gantt_screen/chart_settings.dart": [
+    "gantt_controller.dart"
+  ],
+  "lib/screens/gantt_screen/gantt_controller.dart": [
+    "../process/arrows.dart"
+  ],
+  "lib/screens/gantt_screen/gantt_timeline_view.dart": [
+    "../../common_widgets/my_buttons.dart",
+    "../../services/auth.dart",
+    "../process/process_model.dart"
+  ],
+  "lib/screens/gantt_screen/gantt_view.dart": [
+    "../process/process_model.dart"
+  ],
+  "lib/screens/generation/build_location_model.dart": [],
+  "lib/screens/generation/build_location_view_controller.dart": [
+    "generation_model.dart"
+  ],
+  "lib/screens/generation/generate_charts.dart": [
+    "../common/constants.dart"
+  ],
+  "lib/screens/generation/generate_children_csv.dart": [],
+  "lib/screens/generation/generation_model.dart": [
+    "../../services/git_services.dart",
+    "../common/constants.dart",
+    "../builds/build_model.dart",
+    "../process/process_model.dart",
+    "build_location_view_controller.dart",
+    "generate_charts.dart",
+    "generate_children_csv.dart"
+  ],
+  "lib/screens/generation/generation_view_controller.dart": [
+    "generation_model.dart"
+  ],
+  "lib/screens/generation/generation_view_screen.dart": [
+    "generation_view_stream.dart"
+  ],
+  "lib/screens/generation/generation_view_stream.dart": [],
+  "lib/screens/generation/pick_project_view_controller.dart": [],
+  "lib/screens/generators/generators_screen.dart": [],
+  "lib/screens/home_screen_temp.dart": [
+    "bottom_sheet_edit_container.dart",
+    "build_project_tree.dart",
+    "common/sign_out.dart"
+  ],
+  "lib/screens/identifiers/identifier_items.dart": [
+    "identifier_types.dart"
+  ],
+  "lib/screens/identifiers/identifier_item_view_controller.dart": [
+    "../builds/build_add_edit_screen.dart",
+    "identifier_items.dart",
+    "revise_identifier.dart"
+  ],
+  "lib/screens/identifiers/identifier_types.dart": [
+    "../../services/git_services.dart",
+    "identifier_items.dart"
+  ],
+  "lib/screens/identifiers/identifier_type_add_edit_screen.dart": [
+    "../common/constants.dart"
+  ],
+  "lib/screens/identifiers/identifier_view_controller.dart": [],
+  "lib/screens/identifiers/pick_identifier_item_view_controller.dart": [
+    "identifier_item_view_controller.dart",
+    "identifier_items.dart",
+    "identifier_types.dart"
+  ],
+  "lib/screens/identifiers/pick_identifier_type_view_controller.dart": [
+    "identifier_types.dart"
+  ],
+  "lib/screens/identifiers/revise_identifier.dart": [
+    "identifier_items.dart",
+    "revise_identifier_controller.dart"
+  ],
+  "lib/screens/identifiers/revise_identifier_controller.dart": [
+    "identifier_item_view_controller.dart",
+    "identifier_items.dart",
+    "identifier_types.dart"
+  ],
+  "lib/screens/identifiers/roll_revise_identifier_screen.dart": [
+    "identifier_item_view_controller.dart",
+    "identifier_types.dart"
+  ],
+  "lib/screens/information/information_add_edit_screen.dart": [
+    "../common/constants.dart",
+    "../common/poc_add_edit.dart",
+    "master_information_model.dart",
+    "../revise/revise.dart",
+    "multi_pick_information_view_controller.dart"
+  ],
+  "lib/screens/information/information_model.dart": [
+    "../common/constants.dart",
+    "master_information_model.dart"
+  ],
+  "lib/screens/information/information_view_controller.dart": [
+    "master_information_model.dart"
+  ],
+  "lib/screens/information/master_information_model.dart": [
+    "../common/constants.dart",
+    "information_model.dart"
+  ],
+  "lib/screens/information/master_information_view_controller.dart": [
+    "information_add_edit_screen.dart",
+    "master_information_model.dart"
+  ],
+  "lib/screens/information/multi_pick_information_view_controller.dart": [
+    "../common/multi_pick_view_screen.dart"
+  ],
+  "lib/screens/input/input_add_edit_screen.dart": [
+    "../common/constants.dart",
+    "../common/poc_add_edit.dart",
+    "master_input_model.dart",
+    "multi_pick_input_view_controller.dart"
+  ],
+  "lib/screens/input/input_model.dart": [
+    "../common/constants.dart",
+    "master_input_model.dart"
+  ],
+  "lib/screens/input/input_view_controller.dart": [
+    "input_add_edit_screen.dart"
+  ],
+  "lib/screens/input/master_input_model.dart": [
+    "../common/constants.dart",
+    "input_model.dart"
+  ],
+  "lib/screens/input/master_input_view_controller.dart": [],
+  "lib/screens/input/multi_pick_input_view_controller.dart": [
+    "../common/multi_pick_view_screen.dart",
+    "input_add_edit_screen.dart",
+    "master_input_model.dart"
+  ],
+  "lib/screens/knowledge/knowledge_add_edit_screen.dart": [
+    "../common/constants.dart",
+    "../common/poc_add_edit.dart",
+    "master_knowledge_model.dart"
+  ],
+  "lib/screens/knowledge/knowledge_model.dart": [
+    "../common/constants.dart",
+    "master_knowledge_model.dart"
+  ],
+  "lib/screens/knowledge/knowledge_view_controller.dart": [
+    "knowledge_add_edit_screen.dart",
+    "knowledge_model.dart"
+  ],
+  "lib/screens/knowledge/master_knowledge_model.dart": [
+    "../common/constants.dart",
+    "knowledge_model.dart"
+  ],
+  "lib/screens/knowledge/master_knowledge_view_controller.dart": [
+    "knowledge_add_edit_screen.dart",
+    "master_knowledge_model.dart"
+  ],
+  "lib/screens/knowledge/multi_pick_knowledge_view_controller.dart": [
+    "../common/multi_pick_view_screen.dart"
+  ],
+  "lib/screens/lifecycle/lifecycle_add_edit_screen.dart": [
+    "../common/constants.dart",
+    "../common/poc_add_edit.dart",
+    "master_lifecycle_model.dart"
+  ],
+  "lib/screens/lifecycle/lifecycle_model.dart": [
+    "../common/constants.dart",
+    "master_lifecycle_model.dart"
+  ],
+  "lib/screens/lifecycle/lifecycle_view_controller.dart": [
+    "lifecycle_add_edit_screen.dart",
+    "lifecycle_model.dart",
+    "master_lifecycle_model.dart"
+  ],
+  "lib/screens/lifecycle/master_lifecycle_model.dart": [
+    "../common/constants.dart",
+    "lifecycle_model.dart"
+  ],
+  "lib/screens/lifecycle/master_lifecycle_view_controller.dart": [
+    "lifecycle_add_edit_screen.dart",
+    "master_lifecycle_model.dart"
+  ],
+  "lib/screens/lifecycle/multi_pick_lifecycle_view_controller.dart": [
+    "../common/multi_pick_view_screen.dart"
+  ],
+  "lib/screens/material/master_material_model.dart": [
+    "../common/constants.dart",
+    "material_model.dart"
+  ],
+  "lib/screens/material/master_material_view_controller.dart": [
+    "master_material_model.dart",
+    "material_add_edit_screen.dart"
+  ],
+  "lib/screens/material/material_add_edit_screen.dart": [
+    "../common/constants.dart",
+    "../common/poc_add_edit.dart",
+    "master_material_model.dart",
+    "multi_pick_material_view_controller.dart"
+  ],
+  "lib/screens/material/material_model.dart": [
+    "../common/constants.dart",
+    "master_material_model.dart"
+  ],
+  "lib/screens/material/multi_pick_material_view_controller.dart": [
+    "master_material_model.dart",
+    "material_add_edit_screen.dart",
+    "multi_pick_view_material_screen.dart"
+  ],
+  "lib/screens/material/multi_pick_view_material_screen.dart": [],
+  "lib/screens/material/pick_material_view_controller.dart": [
+    "master_material_model.dart",
+    "material_add_edit_screen.dart"
+  ],
+  "lib/screens/material_list/master_material_list_model.dart": [
+    "../common/constants.dart",
+    "material_to_list_controller.dart"
+  ],
+  "lib/screens/material_list/master_material_list_view_controller.dart": [
+    "master_material_list_model.dart",
+    "material_list_add_edit_screen.dart"
+  ],
+  "lib/screens/material_list/material_list_add_edit_screen.dart": [
+    "../common/constants.dart",
+    "../common/poc_add_edit.dart",
+    "master_material_list_model.dart",
+    "material_to_list_controller.dart",
+    "multi_pick_material_list_view_controller.dart"
+  ],
+  "lib/screens/material_list/material_list_model.dart": [
+    "../common/constants.dart",
+    "../parking_lot/parking_lot_helper_functions.dart",
+    "master_material_list_model.dart",
+    "material_to_list_controller.dart"
+  ],
+  "lib/screens/material_list/material_list_view_controller.dart": [
+    "material_list_add_edit_screen.dart",
+    "material_list_model.dart"
+  ],
+  "lib/screens/material_list/material_to_list_controller.dart": [],
+  "lib/screens/material_list/multi_pick_material_list_view_controller.dart": [],
+  "lib/screens/material_list/pick_material_list_view_controller.dart": [
+    "master_material_list_model.dart",
+    "material_list_add_edit_screen.dart"
+  ],
+  "lib/screens/measurements/master_measurement_model.dart": [
+    "../common/constants.dart",
+    "measurement_model.dart"
+  ],
+  "lib/screens/measurements/master_measurement_view_controller.dart": [
+    "master_measurement_model.dart",
+    "measurement_add_edit_screen.dart"
+  ],
+  "lib/screens/measurements/measurement_add_edit_screen.dart": [
+    "../common/constants.dart",
+    "../common/poc_add_edit.dart",
+    "master_measurement_model.dart"
+  ],
+  "lib/screens/measurements/measurement_model.dart": [
+    "../common/constants.dart",
+    "master_measurement_model.dart"
+  ],
+  "lib/screens/measurements/measurement_view_controller.dart": [
+    "measurement_add_edit_screen.dart",
+    "measurement_model.dart"
+  ],
+  "lib/screens/measurements/multi_pick_measurements_view_controller.dart": [
+    "../common/multi_pick_view_screen.dart"
+  ],
+  "lib/screens/nav_rail_view/nav_rail_controller.dart": [],
+  "lib/screens/nav_rail_view/nav_rail_view_screen.dart": [
+    "../../main.dart",
+    "../common/sign_out.dart",
+    "../store/store_view_controller.dart",
+    "nav_rail_controller.dart"
+  ],
+  "lib/screens/output/master_output_model.dart": [
+    "../common/constants.dart",
+    "output_model.dart"
+  ],
+  "lib/screens/output/master_output_view_controller.dart": [
+    "master_output_model.dart",
+    "output_add_edit_screen.dart"
+  ],
+  "lib/screens/output/multi_pick_output_view_controller.dart": [
+    "../common/multi_pick_view_screen.dart",
+    "output_add_edit_screen.dart"
+  ],
+  "lib/screens/output/output_add_edit_screen.dart": [
+    "../common/constants.dart",
+    "../common/poc_add_edit.dart",
+    "master_output_model.dart",
+    "multi_pick_output_view_controller.dart"
+  ],
+  "lib/screens/output/output_model.dart": [
+    "../common/constants.dart",
+    "master_output_model.dart"
+  ],
+  "lib/screens/output/output_view_controller.dart": [
+    "master_output_model.dart",
+    "output_add_edit_screen.dart",
+    "output_model.dart"
+  ],
+  "lib/screens/parking_lot/build_dates.dart": [],
+  "lib/screens/parking_lot/chart_settings.dart": [],
+  "lib/screens/parking_lot/copy_process_tree.dart": [
+    "../process/process_model.dart"
+  ],
+  "lib/screens/parking_lot/create_new_process.dart": [],
+  "lib/screens/parking_lot/cut_copy_process.dart": [
+    "../../services/auth.dart"
+  ],
+  "lib/screens/parking_lot/edge_add_edit.dart": [
+    "../../services/auth.dart"
+  ],
+  "lib/screens/parking_lot/edge_controller.dart": [],
+  "lib/screens/parking_lot/flow_undo.dart": [
+    "../../common_widgets/my_buttons.dart",
+    "../common/constants.dart"
+  ],
+  "lib/screens/parking_lot/forced_direction_view.dart": [
+    "new_graph.dart"
+  ],
+  "lib/screens/parking_lot/insert_process.dart": [
+    "../../services/auth.dart",
+    "../process/process_model.dart"
+  ],
+  "lib/screens/parking_lot/new_graph.dart": [
+    "../../common_widgets/my_snackbar.dart",
+    "../process/arrows.dart"
+  ],
+  "lib/screens/parking_lot/node_box.dart": [],
+  "lib/screens/parking_lot/node_container_menu.dart": [
+    "../../services/auth.dart",
+    "../builds/build_process_edit_screen.dart",
+    "../process/process_add_edit_screen.dart",
+    "copy_process_tree.dart",
+    "cut_copy_process.dart",
+    "create_new_process.dart",
+    "edge_add_edit.dart",
+    "insert_process.dart",
+    "paste_from_copy_branch.dart"
+  ],
+  "lib/screens/parking_lot/node_menu.dart": [
+    "copy_process_tree.dart",
+    "cut_copy_process.dart",
+    "create_new_process.dart",
+    "edge_add_edit.dart",
+    "insert_process.dart"
+  ],
+  "lib/screens/parking_lot/parking_lot_helper_functions.dart": [
+    "../project/project_model.dart"
+  ],
+  "lib/screens/parking_lot/parking_lot_menu.dart": [
+    "../common/adaptive_dialog.dart",
+    "../parking_lot_index/parkingLot_git_view_controller.dart",
+    "../parking_lot_index/parkingLot_view_controller.dart"
+  ],
+  "lib/screens/parking_lot/parking_lot_view.dart": [
+    "forced_direction_view.dart",
+    "process_view_screen.dart"
+  ],
+  "lib/screens/parking_lot/parking_lot_view_controller.dart": [
+    "../common/constants.dart",
+    "../process/process_model.dart",
+    "../vault/upload.dart",
+    "build_dates.dart"
+  ],
+  "lib/screens/parking_lot/paste_from_copy_branch.dart": [
+    "../../services/local_storage_helper.dart",
+    "../process/process_model.dart"
+  ],
+  "lib/screens/parking_lot/paste_process.dart": [
+    "../../services/auth.dart"
+  ],
+  "lib/screens/parking_lot/pick_project_add_branch_view_controller.dart": [
+    "../common/confirm_delete.dart",
+    "../process/process_model.dart"
+  ],
+  "lib/screens/parking_lot/pick_project_view_controller.dart": [],
+  "lib/screens/parking_lot/process_view_screen.dart": [
+    "../common/adaptive_dialog.dart",
+    "../parking_lot_index/off_sheet_view_controller.dart",
+    "node_menu.dart"
+  ],
+  "lib/screens/parking_lot/quick_controller.dart": [
+    "../process/process_model.dart"
+  ],
+  "lib/screens/parking_lot/quick_entry_screen.dart": [
+    "../process/process_model.dart",
+    "create_new_process.dart"
+  ],
+  "lib/screens/parking_lot/remove_process.dart": [
+    "../../services/auth.dart"
+  ],
+  "lib/screens/parking_lot/report_node_box.dart": [],
+  "lib/screens/parking_lot/report_panel.dart": [
+    "../../common_widgets/loader.dart",
+    "../common/constants.dart"
+  ],
+  "lib/screens/parking_lot/tree_view_screen.dart": [
+    "node_box.dart"
+  ],
+  "lib/screens/parking_lot_index/index_model.dart": [],
+  "lib/screens/parking_lot_index/off_sheet_view_controller.dart": [
+    "../parking_lot/parking_lot_view_controller.dart",
+    "../project/project_model.dart",
+    "view_index.dart"
+  ],
+  "lib/screens/parking_lot_index/parkingLot_git_view_controller.dart": [
+    "../parking_lot/parking_lot_view_controller.dart",
+    "../project/project_model.dart"
+  ],
+  "lib/screens/parking_lot_index/parkingLot_view_controller.dart": [
+    "../parking_lot/parking_lot_view_controller.dart",
+    "../project/project_model.dart",
+    "view_index.dart"
+  ],
+  "lib/screens/parking_lot_index/parking_lot_model.dart": [],
+  "lib/screens/parking_lot_index/view_git_index.dart": [
+    "../../services/auth.dart",
+    "../common/adaptive_dialog.dart",
+    "../common/alpha_search_container.dart",
+    "../parking_lot/parking_lot_view_controller.dart",
+    "../project/project_model.dart"
+  ],
+  "lib/screens/parking_lot_index/view_index.dart": [
+    "../../services/auth.dart",
+    "../common/alpha_search_container.dart"
+  ],
+  "lib/screens/performer/ExpandedPerformerView.dart": [],
+  "lib/screens/performer/master_performer_model.dart": [
+    "../common/constants.dart",
+    "performer_model.dart"
+  ],
+  "lib/screens/performer/master_performer_view_controller.dart": [
+    "master_performer_model.dart"
+  ],
+  "lib/screens/performer/multi_pick_performer_view_controller.dart": [
+    "../common/multi_pick_view_screen.dart"
+  ],
+  "lib/screens/performer/performer_add_edit_screen.dart": [
+    "../common/constants.dart",
+    "master_performer_model.dart",
+    "../revise/revise.dart",
+    "multi_pick_performer_view_controller.dart"
+  ],
+  "lib/screens/performer/performer_model.dart": [
+    "../common/constants.dart",
+    "master_performer_model.dart"
+  ],
+  "lib/screens/performer/performer_view_controller.dart": [
+    "master_performer_model.dart"
+  ],
+  "lib/screens/process/arrows.dart": [
+    "master_process_model.dart"
+  ],
+  "lib/screens/process/create_new_process.dart": [
+    "pick_process_view_controller.dart",
+    "process_model.dart",
+    "replace_process_view_controller.dart"
+  ],
+  "lib/screens/process/ExpandedProcessView.dart": [
+    "create_new_process.dart",
+    "master_process_model.dart"
+  ],
+  "lib/screens/process/master_process_model.dart": [
+    "../common/constants.dart",
+    "arrows.dart"
+  ],
+  "lib/screens/process/master_process_view_controller.dart": [
+    "process_add_edit_screen.dart"
+  ],
+  "lib/screens/process/pick_process_view_controller.dart": [
+    "master_process_model.dart"
+  ],
+  "lib/screens/process/process_add_edit_screen.dart": [
+    "../common/constants.dart",
+    "master_process_model.dart"
+  ],
+  "lib/screens/process/process_details.dart": [],
+  "lib/screens/process/process_model.dart": [
+    "../common/constants.dart",
+    "arrows.dart",
+    "master_process_model.dart"
+  ],
+  "lib/screens/process/process_view.dart": [
+    "../common/constants.dart",
+    "ExpandedProcessView.dart",
+    "create_new_process.dart",
+    "master_process_model.dart",
+    "pick_process_view_controller.dart",
+    "process_model.dart"
+  ],
+  "lib/screens/process/replace_process_view_controller.dart": [
+    "master_process_model.dart"
+  ],
+  "lib/screens/project/copy_project.dart": [
+    "../common/confirm_delete.dart"
+  ],
+  "lib/screens/project/project_add_edit_screen.dart": [
+    "../../common_widgets/my_text_edit.dart",
+    "../common/constants.dart"
+  ],
+  "lib/screens/project/project_controller.dart": [],
+  "lib/screens/project/project_link_model.dart": [],
+  "lib/screens/project/project_listing.dart": [
+    "../common/constants.dart"
+  ],
+  "lib/screens/project/project_model.dart": [
+    "../../services/git_services.dart",
+    "../../services/local_storage_helper.dart",
+    "../common/constants.dart",
+    "../common/download_file.dart",
+    "../equipment/equipment_model.dart",
+    "../input/input_model.dart",
+    "../knowledge/knowledge_model.dart",
+    "../output/output_model.dart",
+    "../parking_lot_index/index_model.dart",
+    "project_add_edit_screen.dart"
+  ],
+  "lib/screens/project/project_tile.dart": [
+    "../common/constants.dart"
+  ],
+  "lib/screens/release/build_release.dart": [
+    "build_release_controller.dart"
+  ],
+  "lib/screens/release/build_release_controller.dart": [
+    "release_screen.dart"
+  ],
+  "lib/screens/release/process_release.dart": [],
+  "lib/screens/release/process_release_controller.dart": [
+    "release_screen.dart"
+  ],
+  "lib/screens/release/release_screen.dart": [],
+  "lib/screens/reports/custom_report_writer.dart": [],
+  "lib/screens/reports/document.dart": [],
+  "lib/screens/reports/invoice.dart": [],
+  "lib/screens/reports/report_controller.dart": [],
+  "lib/screens/reports/report_setup.dart": [
+    "custom_report_writer.dart"
+  ],
+  "lib/screens/reports/report_writer.dart": [
+    "report_controller.dart"
+  ],
+  "lib/screens/requirement/master_requirement_model.dart": [
+    "../common/constants.dart"
+  ],
+  "lib/screens/requirement/master_requirement_view_controller.dart": [
+    "master_requirement_model.dart",
+    "requirement_add_edit_screen.dart"
+  ],
+  "lib/screens/requirement/multi_pick_requirement_view_controller.dart": [
+    "../common/multi_pick_view_screen.dart"
+  ],
+  "lib/screens/requirement/requirement_add_edit_screen.dart": [
+    "../common/constants.dart",
+    "../common/poc_add_edit.dart",
+    "master_requirement_model.dart"
+  ],
+  "lib/screens/requirement/requirement_model.dart": [
+    "../common/constants.dart"
+  ],
+  "lib/screens/requirement/requirement_view_controller.dart": [
+    "requirement_add_edit_screen.dart",
+    "requirement_model.dart"
+  ],
+  "lib/screens/resource/resource_grid_view.dart": [
+    "../common/adaptive_dialog.dart"
+  ],
+  "lib/screens/resource/resource_item_model.dart": [],
+  "lib/screens/resource/resource_model.dart": [],
+  "lib/screens/revise/revise.dart": [
+    "revise_controller.dart"
+  ],
+  "lib/screens/revise/revise_controller.dart": [
+    "../../services/git_services.dart"
+  ],
+  "lib/screens/revise/revise_screen.dart": [
+    "revise_controller.dart"
+  ],
+  "lib/screens/serials/pick_serials_view_controller.dart": [],
+  "lib/screens/serials/serials_add_edit_screen.dart": [
+    "../common/constants.dart"
+  ],
+  "lib/screens/serials/serials_model.dart": [
+    "../common/constants.dart"
+  ],
+  "lib/screens/serials/serials_view_controller.dart": [],
+  "lib/screens/signin/login_screen.dart": [
+    "../common/constants.dart",
+    "../nav_rail_view/nav_rail_view_screen.dart",
+    "../../services/databaseUpdates.dart"
+  ],
+  "lib/screens/signin/sign_in_page.dart": [
+    "login_screen.dart"
+  ],
+  "lib/screens/store/choose_store_tree.dart": [],
+  "lib/screens/store/functional_area_picker.dart": [],
+  "lib/screens/store/sales_model.dart": [],
+  "lib/screens/store/store_add_edit_screen.dart": [
+    "../common/constants.dart"
+  ],
+  "lib/screens/store/store_model.dart": [],
+  "lib/screens/store/store_pick_tile.dart": [],
+  "lib/screens/store/store_tile.dart": [
+    "choose_store_tree.dart"
+  ],
+  "lib/screens/store/store_view.dart": [],
+  "lib/screens/store/store_view_controller.dart": [],
+  "lib/screens/suppliers/master_supplier_model.dart": [
+    "../common/constants.dart"
+  ],
+  "lib/screens/suppliers/master_supplier_view_controller.dart": [
+    "master_supplier_model.dart",
+    "supplier_add_edit_screen.dart"
+  ],
+  "lib/screens/suppliers/pick_supplier_view_controller.dart": [
+    "master_supplier_model.dart"
+  ],
+  "lib/screens/suppliers/supplier_add_edit_screen.dart": [
+    "../common/constants.dart",
+    "master_supplier_model.dart"
+  ],
+  "lib/screens/swim/swim_grid.dart": [],
+  "lib/screens/system/master_system_model.dart": [
+    "../common/constants.dart",
+    "system_model.dart"
+  ],
+  "lib/screens/system/master_system_view_controller.dart": [
+    "system_add_edit_screen.dart",
+    "master_system_model.dart"
+  ],
+  "lib/screens/system/multi_pick_system_view_controller.dart": [
+    "../common/multi_pick_view_screen.dart",
+    "master_system_model.dart"
+  ],
+  "lib/screens/system/system_add_edit_screen.dart": [
+    "../common/constants.dart",
+    "../common/poc_add_edit.dart",
+    "master_system_model.dart",
+    "../revise/revise.dart",
+    "multi_pick_system_view_controller.dart"
+  ],
+  "lib/screens/system/system_model.dart": [
+    "../common/constants.dart",
+    "master_system_model.dart"
+  ],
+  "lib/screens/system/system_view_controller.dart": [
+    "master_system_model.dart"
+  ],
+  "lib/screens/tool/master_tool_model.dart": [
+    "../common/constants.dart",
+    "tool_model.dart"
+  ],
+  "lib/screens/tool/master_tool_view_controller.dart": [
+    "tool_add_edit_screen.dart",
+    "master_tool_model.dart"
+  ],
+  "lib/screens/tool/multi_pick_system_view_controller.dart": [
+    "../common/multi_pick_view_screen.dart"
+  ],
+  "lib/screens/tool/pick_tool_view_controller.dart": [
+    "tool_add_edit_screen.dart",
+    "master_tool_model.dart"
+  ],
+  "lib/screens/tool/tool_add_edit_screen.dart": [
+    "../common/constants.dart",
+    "../common/poc_add_edit.dart",
+    "master_tool_model.dart",
+    "../revise/revise.dart",
+    "multi_pick_system_view_controller.dart"
+  ],
+  "lib/screens/tool/tool_model.dart": [
+    "../common/constants.dart",
+    "master_tool_model.dart"
+  ],
+  "lib/screens/tool/tool_view_controller.dart": [
+    "master_tool_model.dart"
+  ],
+  "lib/screens/used_on/used_on_git_view_controller.dart": [
+    "../../services/api_path.dart",
+    "../parking_lot/parking_lot_helper_functions.dart",
+    "../parking_lot/parking_lot_view_controller.dart",
+    "../project/project_model.dart"
+  ],
+  "lib/screens/used_on/used_on_model.dart": [
+    "../../services/git_services.dart",
+    "../parking_lot/parking_lot_view_controller.dart"
+  ],
+  "lib/screens/used_on/used_on_stream.dart": [
+    "used_on_model.dart",
+    "used_on_tile.dart"
+  ],
+  "lib/screens/used_on/used_on_tile.dart": [
+    "../common/constants.dart"
+  ],
+  "lib/screens/used_on/used_on_view_screen.dart": [
+    "../common/constants.dart",
+    "used_on_stream.dart"
+  ],
+  "lib/screens/used_on/view_git_used_on.dart": [
+    "../../services/auth.dart",
+    "../common/adaptive_dialog.dart",
+    "../common/alpha_search_container.dart",
+    "../parking_lot/parking_lot_view_controller.dart",
+    "../project/project_model.dart"
+  ],
+  "lib/screens/user/company_setting.dart": [],
+  "lib/screens/user/company_user_add_edit_screen.dart": [
+    "../common/constants.dart"
+  ],
+  "lib/screens/user/company_user_model.dart": [
+    "../common/constants.dart"
+  ],
+  "lib/screens/user/company_user_view_controller.dart": [
+    "company_user_add_edit_screen.dart"
+  ],
+  "lib/screens/user/orpheus_user.dart": [],
+  "lib/screens/user/orpheus_user_add_edit_screen.dart": [
+    "../common/constants.dart",
+    "company_user_add_edit_screen.dart",
+    "orpheus_user.dart"
+  ],
+  "lib/screens/user/orpheus_user_view_controller.dart": [
+    "orpheus_user.dart"
+  ],
+  "lib/screens/user/pick_owner_note_controller.dart": [],
+  "lib/screens/user/pick_owner_view_controller.dart": [],
+  "lib/screens/user/pick_user_view_controller.dart": [],
+  "lib/screens/user/settings_model.dart": [],
+  "lib/screens/user/setup_user.dart": [],
+  "lib/screens/vault/load_file_in_browser.dart": [],
+  "lib/screens/vault/load_image.dart": [
+    "../../services/git_services.dart",
+    "load_file_in_browser.dart"
+  ],
+  "lib/screens/vault/upload.dart": [
+    "../../services/api_path.dart",
+    "../../services/auth.dart",
+    "../../services/git_services.dart",
+    "../project/project_model.dart"
+  ],
+  "lib/screens/vault/vault_buttons.dart": [
+    "../../services/git_services.dart",
+    "load_file_in_browser.dart"
+  ],
+  "lib/screens/vault/vault_edit.dart": [
+    "../common/adaptive_dialog.dart"
+  ],
+  "lib/screens/vault/vault_edit_controller.dart": [],
+  "lib/screens/vault/vault_view.dart": [
+    "../common/constants.dart",
+    "../parking_lot/parking_lot_view_controller.dart",
+    "load_image.dart",
+    "vault_buttons.dart"
+  ],
+  "lib/screens/vault/vault_view_controller.dart": [],
+  "lib/screens/versioning/master_version_model.dart": [
+    "../common/constants.dart"
+  ],
+  "lib/screens/versioning/version_model.dart": [
+    "../common/constants.dart"
+  ],
+  "lib/screens/versioning/version_view_controller.dart": [],
+  "lib/screens/visual_reports_screen/chart_maker.dart": [
+    "../business/master_business_model.dart",
+    "../common/constants.dart",
+    "../condition/master_conditions_model.dart",
+    "../equipment/master_equipment_model.dart",
+    "../information/master_information_model.dart",
+    "../knowledge/master_knowledge_model.dart",
+    "../lifecycle/master_lifecycle_model.dart",
+    "../measurements/master_measurement_model.dart",
+    "../requirement/master_requirement_model.dart",
+    "../system/master_system_model.dart",
+    "../tool/master_tool_model.dart"
+  ],
+  "lib/screens/visual_reports_screen/chart_settings.dart": [
+    "visual_reports_controller.dart"
+  ],
+  "lib/screens/visual_reports_screen/visual_reports_controller.dart": [
+    "../../services/auth.dart"
+  ],
+  "lib/screens/visual_reports_screen/visual_reports_view.dart": [
+    "../parking_lot/process_view_screen.dart"
+  ],
+  "lib/screens/whiteboard/whiteboard_view.dart": [
+    "../../common_widgets/my_web_share.dart"
+  ],
+  "lib/services/api_path.dart": [
+    "auth.dart"
+  ],
+  "lib/services/auth.dart": [
+    "../models/company.dart",
+    "data_controller.dart"
+  ],
+  "lib/services/databaseUpdates.dart": [
+    "../common_widgets/my_snackbar.dart",
+    "../main.dart",
+    "../screens/business/business_model.dart",
+    "../screens/condition/condition_model.dart",
+    "../screens/information/information_model.dart",
+    "../screens/input/input_model.dart",
+    "../screens/knowledge/knowledge_model.dart",
+    "../screens/lifecycle/lifecycle_model.dart",
+    "../screens/measurements/measurement_model.dart",
+    "../screens/output/output_model.dart",
+    "../screens/parking_lot_index/parking_lot_model.dart",
+    "../screens/performer/performer_model.dart",
+    "../screens/project/project_model.dart",
+    "../screens/requirement/requirement_model.dart",
+    "../screens/system/system_model.dart",
+    "../screens/tool/tool_model.dart"
+  ],
+  "lib/services/data_controller.dart": [],
+  "lib/services/fire_storage.dart": [],
+  "lib/services/git.dart": [
+    "auth.dart"
+  ],
+  "lib/services/git_bard.dart": [],
+  "lib/services/git_services.dart": [
+    "../screens/common/constants.dart",
+    "../screens/used_on/used_on_model.dart",
+    "api_path.dart",
+    "auth.dart"
+  ],
+  "lib/services/local_storage_helper.dart": [],
+  "lib/services/object_states.dart": [],
+  "lib/services/session_storage_helper.dart": [],
+  "lib/services/test_theme.dart": [],
+  "lib/services/triggers.dart": []
+}
