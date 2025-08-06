@@ -1,0 +1,21 @@
+--CHOOSE-- - 0 - 0 /150 0 minutes
+A Murderous Revision - 1 - 3 /150 0 minutes
+ANNOUNCER: - 10 - 243 /150 2 minutes
+CBS ANNCR: - 1 - 6 /150 0 minutes
+CHRIS: - 153 - 2143 /150 14 minutes
+DORIS: - 3 - 28 /150 0 minutes
+GEORGE: - 3 - 67 /150 0 minutes
+HANK: - 10 - 153 /150 1 minutes
+HAP: - 7 - 36 /150 0 minutes
+HARRIET: - 11 - 93 /150 1 minutes
+KEN & CHRIS: - 1 - 4 /150 0 minutes
+KEN: - 47 - 562 /150 4 minutes
+LOIS: - 74 - 389 /150 3 minutes
+MUSIC: - 27 - 132 /150 1 minutes
+OPERATOR: - 1 - 33 /150 0 minutes
+SOUND: - 57 - 324 /150 2 minutes
+SOUND:  - 1 - 3 /150 0 minutes
+WILCOX: - 13 - 401 /150 3 minutes
+YOUTUBE: - 1 - 1 /150 0 minutes
+SCENE 1::  Est Time = 46
+Total time 46
