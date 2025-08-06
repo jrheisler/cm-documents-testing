@@ -24,5 +24,18 @@
     "id": "policydocument-323311629-pdf",
     "summary": "You're no longer receiving the Good Payer discount. With this renewal, you'll see an increase in your home coverage limits. As inflation and reconstruction costs rise, so does the amount of coverage needed to rebuild your home in the event of a total loss. Text GETAPP to 29141 to download it today!",
     "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-documents-testing/docs/policydocument-323311629-pdf.pdf"
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "Theater",
+    "title": "El Cobrador.pdf",
+    "status": "draft",
+    "filename": "El Cobrador.pdf",
+    "createdAt": "2025-08-06T19:53:14.161Z",
+    "lastUpdated": "2025-08-06T19:53:14.161Z",
+    "id": "el-cobrador-pdf",
+    "summary": "",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-documents-testing/docs/el-cobrador-pdf.pdf"
   }
 ]
