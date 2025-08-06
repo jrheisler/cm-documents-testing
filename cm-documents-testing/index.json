@@ -58,5 +58,17 @@
     "lastUpdated": "2025-08-06T15:03:48.888Z",
     "id": "script-62-txt",
     "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-documents-testing/docs/script-62-txt.txt"
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "Theater",
+    "title": "turn-of-the-screw.txt",
+    "status": "draft",
+    "filename": "turn-of-the-screw.txt",
+    "createdAt": "2025-08-06T15:19:22.771Z",
+    "lastUpdated": "2025-08-06T15:19:22.771Z",
+    "id": "turn-of-the-screw-txt",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-documents-testing/docs/turn-of-the-screw-txt.txt"
   }
 ]
