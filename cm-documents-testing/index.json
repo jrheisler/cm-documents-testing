@@ -122,5 +122,18 @@
     "id": "el-cobrador-pdf",
     "summary": "The entire film is experienced in real time through a head-mounted camera. The cab becomes an extension of the body — switches, buttons, pedals. Every motion is felt: the head turn, the seat shift, the moment of hesitation. The audience feels complicit   in the action.",
     "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-documents-testing/docs/el-cobrador-pdf.pdf"
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "Programming",
+    "title": "Concept Document_ Cymarion.pdf",
+    "status": "draft",
+    "filename": "Concept Document_ Cymarion.pdf",
+    "createdAt": "2025-08-06T16:10:04.515Z",
+    "lastUpdated": "2025-08-06T16:10:04.515Z",
+    "id": "concept-document-cymarion-pdf",
+    "summary": "In-Fluid Acoustic Binary Signaling for Liquid-Filled Pipelines. Uses the pipeline’s fluid as a communication medium and avoids wiring or radio-based limitations. Uses low-energy pulses with no pressure buildup. It remains fully external, ensuring zero contamination or process interference.",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-documents-testing/docs/concept-document-cymarion-pdf.pdf"
   }
 ]
