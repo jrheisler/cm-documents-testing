@@ -115,5 +115,18 @@
     "id": "12v-charging-for-evs-pdf",
     "summary": "Several major electric vehicle (EV) manufacturers incorporate methods to maintain or trickle charge the 12-volt auxiliary battery. These methods include utilizing the OBD-II port, auxiliary charging ports, or the12-volt accessory socket. By leveraging these methods, EV owners can maintain the 12V auxiliary battery's charge.",
     "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-documents-testing/docs/12v-charging-for-evs-pdf.pdf"
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "Home",
+    "title": "social-security-statement.pdf",
+    "status": "draft",
+    "filename": "social-security-statement.pdf",
+    "createdAt": "2025-08-07T18:09:15.840Z",
+    "lastUpdated": "2025-08-07T18:09:15.840Z",
+    "id": "social-security-statement-pdf",
+    "summary": "To qualify for benefits, you earn credits through your work - up to four each year. Your age qualifies you to receive full retirement benefits instead of disability benefits. Review your earnings history below to ensure it is  accurate because we base your future benefits on our record of your earnings. There's a limit to the amount  of earnings you pay Social Security taxes on each  year.",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-documents-testing/docs/social-security-statement-pdf.pdf"
   }
 ]
