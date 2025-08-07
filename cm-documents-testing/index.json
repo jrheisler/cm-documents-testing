@@ -89,18 +89,5 @@
     "id": "course-17-process-cm-v03-docx",
     "summary": "The 17th Course in Process CM is called Configuration Management Transforming Business Processes. The course focuses on Business Process Reengineering (BPR), Continuous Process Improvement (CPI), and Configuration Management (CM) The course lasts three days (24 hours total) and is designed to help you understand and analyze core business processes.",
     "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-documents-testing/docs/course-17-process-cm-v03-docx.docx"
-  },
-  {
-    "description": "",
-    "meta": "",
-    "category": "Software",
-    "title": "Nurox API Specification Language - NASL - v1 (1).pdf",
-    "status": "draft",
-    "filename": "Nurox API Specification Language - NASL - v1 (1).pdf",
-    "createdAt": "2025-08-07T15:07:18.920Z",
-    "lastUpdated": "2025-08-07T15:07:18.920Z",
-    "id": "nurox-api-specification-language-nasl-v1-1-pdf",
-    "summary": "NUROX API is a controlled document within the nuroX Configuration-Management System. Any printed or locally saved copy is uncontrolled and for reference only. Re-  distribution outside authorized channels is prohibited. Proposed changes must be submitted via a Change Request (CR) in ClickUp#NASL-CFG.",
-    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-documents-testing/docs/nurox-api-specification-language-nasl-v1-1-pdf.pdf"
   }
 ]
