@@ -102,5 +102,18 @@
     "id": "echo-companion-backend-pdf",
     "summary": "Local-first user interaction system ensures privacy and control over data. Only meta-data and necessary updates are sent to the central server (Firebase) when the user triggers a rebuild. Pull-to-Rebuild functionality allows the user to trigger the rebuild process manually when they want to update their world.",
     "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-documents-testing/docs/echo-companion-backend-pdf.pdf"
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "Home",
+    "title": "12v Charging for EVs.pdf",
+    "status": "draft",
+    "filename": "12v Charging for EVs.pdf",
+    "createdAt": "2025-08-07T17:54:36.637Z",
+    "lastUpdated": "2025-08-07T17:54:36.637Z",
+    "id": "12v-charging-for-evs-pdf",
+    "summary": "Several major electric vehicle (EV) manufacturers incorporate methods to maintain or trickle charge the 12-volt auxiliary battery. These methods include utilizing the OBD-II port, auxiliary charging ports, or the12-volt accessory socket. By leveraging these methods, EV owners can maintain the 12V auxiliary battery's charge.",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-documents-testing/docs/12v-charging-for-evs-pdf.pdf"
   }
 ]
