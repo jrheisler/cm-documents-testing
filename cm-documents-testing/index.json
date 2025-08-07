@@ -89,5 +89,18 @@
     "id": "course-17-process-cm-v03-docx",
     "summary": "The 17th Course in Process CM is called Configuration Management Transforming Business Processes. The course focuses on Business Process Reengineering (BPR), Continuous Process Improvement (CPI), and Configuration Management (CM) The course lasts three days (24 hours total) and is designed to help you understand and analyze core business processes.",
     "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-documents-testing/docs/course-17-process-cm-v03-docx.docx"
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "Software",
+    "title": "Echo Companion backend.pdf",
+    "status": "draft",
+    "filename": "Echo Companion backend.pdf",
+    "createdAt": "2025-08-07T17:50:04.730Z",
+    "lastUpdated": "2025-08-07T17:50:04.730Z",
+    "id": "echo-companion-backend-pdf",
+    "summary": "Local-first user interaction system ensures privacy and control over data. Only meta-data and necessary updates are sent to the central server (Firebase) when the user triggers a rebuild. Pull-to-Rebuild functionality allows the user to trigger the rebuild process manually when they want to update their world.",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-documents-testing/docs/echo-companion-backend-pdf.pdf"
   }
 ]
