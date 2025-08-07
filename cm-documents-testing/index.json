@@ -63,5 +63,18 @@
     "id": "ai-isnt-to-blame-for-the-rise-in-layoffs",
     "summary": "AI is being blamed for layoffs, but the real issue is systemic incompetence in company operations. Poor role clarity and talent management are driving dysfunction. Without addressing these, AI will only automate existing problems — not solve them. Replacing humans with AI won’t fix dysfunction. It will just automate it, then amplify it.",
     "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-documents-testing/docs/ai-isnt-to-blame-for-the-rise-in-layoffs.docx"
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "Software",
+    "title": "Design Document_ Generic Execution Engine and Modeler.pdf",
+    "status": "draft",
+    "filename": "Design Document_ Generic Execution Engine and Modeler.pdf",
+    "createdAt": "2025-08-07T15:05:39.567Z",
+    "lastUpdated": "2025-08-07T15:05:39.567Z",
+    "id": "design-document-generic-execution-engine-and-modeler-pdf",
+    "summary": " Generic Execution Engine and Modeler provides a powerful, extensible platform for automating and orchestrating workflows across various domains. It uses a visual process modeler (e.g., BPMN) and a token-based execution engine. It offers the ability to: Model and visualize business processes or automated workflows in real-time. Track execution state through immutable tokens for auditability and historical analysis.",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-documents-testing/docs/design-document-generic-execution-engine-and-modeler-pdf.pdf"
   }
 ]
