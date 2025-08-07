@@ -1,0 +1,5 @@
+{
+  "title": "Echo Companion backend.pdf",
+  "path": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-documents-testing/docs/echo-companion-backend-pdf.pdf",
+  "summary": "Local-first user interaction system ensures privacy and control over data. Only meta-data and necessary updates are sent to the central server (Firebase) when the user triggers a rebuild. Pull-to-Rebuild functionality allows the user to trigger the rebuild process manually when they want to update their world."
+}
