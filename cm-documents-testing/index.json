@@ -128,5 +128,18 @@
     "id": "social-security-statement-pdf",
     "summary": "To qualify for benefits, you earn credits through your work - up to four each year. Your age qualifies you to receive full retirement benefits instead of disability benefits. Review your earnings history below to ensure it is  accurate because we base your future benefits on our record of your earnings. There's a limit to the amount  of earnings you pay Social Security taxes on each  year.",
     "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-documents-testing/docs/social-security-statement-pdf.pdf"
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "Home",
+    "title": "benefit-verification-letter.pdf",
+    "status": "draft",
+    "filename": "benefit-verification-letter.pdf",
+    "createdAt": "2025-08-07T18:09:43.629Z",
+    "lastUpdated": "2025-08-07T18:09:43.629Z",
+    "id": "benefit-verification-letter-pdf",
+    "summary": "You are entitled to hospital insurance under Medicare beginning June 2023. Your Medicare number is 6P40AX8EN33. You may use this number to get medical services while waiting for your Medicare card. The date of birth shown on our records is June 7, 1958.",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-documents-testing/docs/benefit-verification-letter-pdf.pdf"
   }
 ]
