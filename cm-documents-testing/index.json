@@ -76,5 +76,18 @@
     "id": "design-document-generic-execution-engine-and-modeler-pdf",
     "summary": " Generic Execution Engine and Modeler provides a powerful, extensible platform for automating and orchestrating workflows across various domains. It uses a visual process modeler (e.g., BPMN) and a token-based execution engine. It offers the ability to: Model and visualize business processes or automated workflows in real-time. Track execution state through immutable tokens for auditability and historical analysis.",
     "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-documents-testing/docs/design-document-generic-execution-engine-and-modeler-pdf.pdf"
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "Teaching",
+    "title": "Course 17 Process CM v03.docx",
+    "status": "draft",
+    "filename": "Course 17 Process CM v03.docx",
+    "createdAt": "2025-08-07T15:06:27.926Z",
+    "lastUpdated": "2025-08-07T15:06:27.926Z",
+    "id": "course-17-process-cm-v03-docx",
+    "summary": "The 17th Course in Process CM is called Configuration Management Transforming Business Processes. The course focuses on Business Process Reengineering (BPR), Continuous Process Improvement (CPI), and Configuration Management (CM) The course lasts three days (24 hours total) and is designed to help you understand and analyze core business processes.",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-documents-testing/docs/course-17-process-cm-v03-docx.docx"
   }
 ]
