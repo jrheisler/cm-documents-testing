@@ -11,5 +11,18 @@
     "id": "ai-isnt-to-blame-for-the-rise-in-layoffs-docx",
     "summary": "AI is being blamed for layoffs, but the real issue is systemic incompetence in company operations. Poor role clarity and talent management are driving dysfunction. Without addressing these, AI will only automate existing problems — not solve them. Replacing humans with AI won’t fix dysfunction. It will just automate it, then amplify it.",
     "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/ai-isnt-to-blame-for-the-rise-in-layoffs-docx.docx"
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "Software",
+    "title": "echo-companion-backend-pdf.pdf",
+    "status": "draft",
+    "filename": "echo-companion-backend-pdf.pdf",
+    "createdAt": "2025-08-10T13:58:47.855Z",
+    "lastUpdated": "2025-08-10T13:58:47.855Z",
+    "id": "echo-companion-backend-pdf",
+    "summary": "Local-first user interaction system ensures privacy and control over data. Only meta-data and necessary updates are sent to the central server (Firebase) when the user triggers a rebuild. Pull-to-Rebuild functionality allows the user to trigger the rebuild process manually when they want to update their world.",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/echo-companion-backend-pdf.pdf"
   }
 ]
