@@ -1,0 +1,5 @@
+{
+  "title": "Review Document_ BPMN Teaching and Execution Platform Design.pdf",
+  "path": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/review-document-bpmn-teaching-and-execution-platform-design.pdf",
+  "summary": "This document outlines a phased approach to building a BPMN (Business Process Model and Notation) platform designed for educational use. The platform will be hosted initially on Firebase and later expanded to support live execution environments. The goal is to support real-time execution beyond academic use."
+}
