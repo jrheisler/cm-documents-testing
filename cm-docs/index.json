@@ -353,5 +353,23 @@
       "re",
       "pre"
     ]
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "Personal",
+    "title": "June302025statement.pdf",
+    "status": "draft",
+    "filename": "June302025statement.pdf",
+    "createdAt": "2025-08-10T21:42:47.961Z",
+    "lastUpdated": "2025-08-10T21:42:47.961Z",
+    "id": "june302025statement",
+    "summary": "",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/june302025statement.pdf",
+    "tokens": [
+      "june302025statement",
+      "pdf",
+      "personal"
+    ]
   }
 ]
