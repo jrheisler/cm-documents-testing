@@ -1,0 +1,5 @@
+{
+  "title": "Design Document_ Generic Execution Engine and Modeler.pdf",
+  "path": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/design-document-generic-execution-engine-and-modeler.pdf",
+  "summary": " Generic Execution Engine and Modeler provides a powerful, extensible platform for automating and orchestrating workflows across various domains. It uses a visual process modeler (e.g., BPMN) and a token-based execution engine. It offers the ability to: Model and visualize business processes or automated workflows in real-time. Track execution state through immutable tokens for auditability and historical analysis."
+}
