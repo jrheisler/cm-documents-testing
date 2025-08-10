@@ -1552,5 +1552,30 @@
       "docx",
       "theater"
     ]
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "Theater",
+    "title": "CAN'T TAKE MY EYES OFF YOU -DOC.docx",
+    "status": "draft",
+    "filename": "CAN'T TAKE MY EYES OFF YOU -DOC.docx",
+    "createdAt": "2025-08-10T22:37:45.611Z",
+    "lastUpdated": "2025-08-10T22:37:45.611Z",
+    "id": "can-t-take-my-eyes-off-you-doc",
+    "summary": "",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/can-t-take-my-eyes-off-you-doc.docx",
+    "tokens": [
+      "can",
+      "t",
+      "take",
+      "my",
+      "eyes",
+      "off",
+      "you",
+      "doc",
+      "docx",
+      "theater"
+    ]
   }
 ]
