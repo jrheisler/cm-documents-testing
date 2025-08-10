@@ -50,5 +50,18 @@
     "id": "benefit-verification-letter",
     "summary": "You are entitled to hospital insurance under Medicare beginning June 2023. Your Medicare number is 6P40AX8EN33. You may use this number to get medical services while waiting for your Medicare card. The date of birth shown on our records is June 7, 1958.",
     "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/benefit-verification-letter.pdf"
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "Personal",
+    "title": "CMPIC-Heisler-Invoice-0020.pdf",
+    "status": "draft",
+    "filename": "CMPIC-Heisler-Invoice-0020.pdf",
+    "createdAt": "2025-08-10T16:29:55.475Z",
+    "lastUpdated": "2025-08-10T16:29:55.475Z",
+    "id": "cmpic-heisler-invoice-0020",
+    "summary": "CMPIC Course 8 (Remote)  Teach Course 8  8 half days @ $925 per  Total: $7400.00  Thank you!!!  Jeff Heisler  EIN: 87-2391987  Wells Fargo Account:1010305606648  Routing numbers Direct deposits: 121042882 ",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/cmpic-heisler-invoice-0020.pdf"
   }
 ]
