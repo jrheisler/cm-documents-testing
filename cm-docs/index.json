@@ -1528,5 +1528,29 @@
       "adds",
       "writer"
     ]
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "Theater",
+    "title": "THE MUSIC NEVER ENDS - DOC.FILE (1).docx",
+    "status": "draft",
+    "filename": "THE MUSIC NEVER ENDS - DOC.FILE (1).docx",
+    "createdAt": "2025-08-10T22:37:40.420Z",
+    "lastUpdated": "2025-08-10T22:37:40.420Z",
+    "id": "the-music-never-ends-doc-file-1",
+    "summary": "",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/the-music-never-ends-doc-file-1.docx",
+    "tokens": [
+      "the",
+      "music",
+      "never",
+      "ends",
+      "doc",
+      "file",
+      "1",
+      "docx",
+      "theater"
+    ]
   }
 ]
