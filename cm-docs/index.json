@@ -1577,5 +1577,29 @@
       "docx",
       "theater"
     ]
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "Theater",
+    "title": "I WANNA BE LOVED BY YOU -DOC.docx",
+    "status": "draft",
+    "filename": "I WANNA BE LOVED BY YOU -DOC.docx",
+    "createdAt": "2025-08-10T22:37:51.217Z",
+    "lastUpdated": "2025-08-10T22:37:51.217Z",
+    "id": "i-wanna-be-loved-by-you-doc",
+    "summary": "",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/i-wanna-be-loved-by-you-doc.docx",
+    "tokens": [
+      "i",
+      "wanna",
+      "be",
+      "loved",
+      "by",
+      "you",
+      "doc",
+      "docx",
+      "theater"
+    ]
   }
 ]
