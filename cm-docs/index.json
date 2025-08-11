@@ -3072,5 +3072,24 @@
       "bpmn",
       "public"
     ]
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "BPMN-public",
+    "title": "faviconLoggedIn.ico",
+    "status": "draft",
+    "filename": "faviconLoggedIn.ico",
+    "createdAt": "2025-08-11T12:49:12.071Z",
+    "lastUpdated": "2025-08-11T12:49:12.071Z",
+    "id": "faviconloggedin",
+    "summary": "",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/faviconloggedin.ico",
+    "tokens": [
+      "faviconloggedin",
+      "ico",
+      "bpmn",
+      "public"
+    ]
   }
 ]
