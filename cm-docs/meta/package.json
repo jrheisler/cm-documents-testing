@@ -1,0 +1,5 @@
+{
+  "title": "package.json",
+  "path": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/package.json",
+  "summary": "\"dependencies\": { \"bpmn-auto-layout\": \"^1.0.1\", \"bPMn-js-properties-panel\": \" ^5.37.0\", \"camunda-bPMN-moddle\": \"#7.0,\" \"diagram-js\"-minimap: \"^5.2.0\" }. \"dependencies\" include: \"b pmn\", \"cpmn,\" \"camunda\", \"dpi\", \"fpmn\", and \"dpmn\""
+}
