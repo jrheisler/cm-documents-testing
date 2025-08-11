@@ -1,0 +1,5 @@
+{
+  "title": "manifest.json",
+  "path": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/manifest.json",
+  "summary": "\"Amazon Tariff Estimator\" displays estimated tariffs for Amazon products based on category and country of origin. \"Permissions\": [\"scripting\", \"activeTab\"], \"host_permission\": [\"https://www.amazon.com/], \"matches\": [\"http:// www.Amazon.com/\"], \"js\": [\"content.js\"], \"icons\": [\"favicon-16x16.png\", \"favicons-32x32.png\"]."
+}
