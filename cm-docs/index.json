@@ -3110,5 +3110,24 @@
       "bpmn",
       "public"
     ]
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "BPMN-public",
+    "title": "flowLoggedIn.png",
+    "status": "draft",
+    "filename": "flowLoggedIn.png",
+    "createdAt": "2025-08-11T12:49:19.923Z",
+    "lastUpdated": "2025-08-11T12:49:19.923Z",
+    "id": "flowloggedin",
+    "summary": "",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/flowloggedin.png",
+    "tokens": [
+      "flowloggedin",
+      "png",
+      "bpmn",
+      "public"
+    ]
   }
 ]
