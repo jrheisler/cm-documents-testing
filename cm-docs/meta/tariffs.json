@@ -1,0 +1,5 @@
+{
+  "title": "tariffs.json",
+  "path": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/tariffs.json",
+  "summary": "\"Electronics\" is the most common category. \"Apparel\" and \"default\" are the least common. \"Default\" is \"China\": 1.45, \"Vietnam\": 0.10, and \"India\" is 0.15. \"electronics\" has the lowest default value of 0.45."
+}
