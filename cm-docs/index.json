@@ -2737,5 +2737,39 @@
       "tariff",
       "extension"
     ]
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "Amazon Tariff Extension",
+    "title": "favicon-16x16.png",
+    "status": "draft",
+    "filename": "favicon-16x16.png",
+    "createdAt": "2025-08-11T12:46:30.763Z",
+    "lastUpdated": "2025-08-11T12:46:30.763Z",
+    "id": "favicon-16x16",
+    "summary": "A. �PNG:  “PNG’s: ”PNG.   ”:  \"A’S:”“A”  \"    ’A : ”’ 'A“: ’”   “B’: “A ‚”, “C’,  , ” “D’\": “”. “E’ : “I’m sorry, I’ve got to go.”",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/favicon-16x16.png",
+    "tokens": [
+      "favicon",
+      "16x16",
+      "png",
+      "amazon",
+      "tariff",
+      "extension",
+      "a",
+      "s",
+      "b",
+      "c",
+      "d",
+      "e",
+      "i",
+      "m",
+      "sorry",
+      "ve",
+      "got",
+      "to",
+      "go"
+    ]
   }
 ]
