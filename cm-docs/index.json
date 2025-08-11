@@ -3053,5 +3053,24 @@
       "s",
       "configured"
     ]
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "BPMN-public",
+    "title": "favicon.ico",
+    "status": "draft",
+    "filename": "favicon.ico",
+    "createdAt": "2025-08-11T12:49:07.806Z",
+    "lastUpdated": "2025-08-11T12:49:07.806Z",
+    "id": "favicon",
+    "summary": "",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/favicon.ico",
+    "tokens": [
+      "favicon",
+      "ico",
+      "bpmn",
+      "public"
+    ]
   }
 ]
