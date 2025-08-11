@@ -2717,5 +2717,25 @@
       "value",
       "of"
     ]
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "Amazon Tariff Extension",
+    "title": "content.js",
+    "status": "draft",
+    "filename": "content.js",
+    "createdAt": "2025-08-11T12:46:24.195Z",
+    "lastUpdated": "2025-08-11T12:46:24.195Z",
+    "id": "content",
+    "summary": "",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/content.js",
+    "tokens": [
+      "content",
+      "js",
+      "amazon",
+      "tariff",
+      "extension"
+    ]
   }
 ]
