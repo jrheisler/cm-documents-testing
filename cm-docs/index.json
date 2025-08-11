@@ -2674,5 +2674,48 @@
       "more",
       "powerful"
     ]
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "Amazon Tariff Extension",
+    "title": "tariffs.json",
+    "status": "draft",
+    "filename": "tariffs.json",
+    "createdAt": "2025-08-11T12:46:15.974Z",
+    "lastUpdated": "2025-08-11T12:46:15.974Z",
+    "id": "tariffs",
+    "summary": "\"Electronics\" is the most common category. \"Apparel\" and \"default\" are the least common. \"Default\" is \"China\": 1.45, \"Vietnam\": 0.10, and \"India\" is 0.15. \"electronics\" has the lowest default value of 0.45.",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/tariffs.json",
+    "tokens": [
+      "tariffs",
+      "json",
+      "amazon",
+      "tariff",
+      "extension",
+      "electronics",
+      "is",
+      "the",
+      "most",
+      "common",
+      "category",
+      "apparel",
+      "and",
+      "default",
+      "are",
+      "least",
+      "china",
+      "1",
+      "45",
+      "vietnam",
+      "0",
+      "10",
+      "india",
+      "15",
+      "has",
+      "lowest",
+      "value",
+      "of"
+    ]
   }
 ]
