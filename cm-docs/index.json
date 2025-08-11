@@ -2859,5 +2859,22 @@
       "sample",
       "bpmn"
     ]
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "BPMN",
+    "title": "sample2.bpmn",
+    "status": "draft",
+    "filename": "sample2.bpmn",
+    "createdAt": "2025-08-11T12:48:10.939Z",
+    "lastUpdated": "2025-08-11T12:48:10.939Z",
+    "id": "sample2",
+    "summary": "",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/sample2.bpmn",
+    "tokens": [
+      "sample2",
+      "bpmn"
+    ]
   }
 ]
