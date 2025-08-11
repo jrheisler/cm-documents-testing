@@ -2842,5 +2842,22 @@
       "favicons",
       "32x32"
     ]
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "BPMN",
+    "title": "sample.bpmn",
+    "status": "draft",
+    "filename": "sample.bpmn",
+    "createdAt": "2025-08-11T12:48:04.270Z",
+    "lastUpdated": "2025-08-11T12:48:04.270Z",
+    "id": "sample",
+    "summary": "",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/sample.bpmn",
+    "tokens": [
+      "sample",
+      "bpmn"
+    ]
   }
 ]
