@@ -1,0 +1,14 @@
+{
+    "electronics": {
+      "China": 1.45,
+      "Vietnam": 0.10
+    },
+    "apparel": {
+      "India": 0.15,
+      "Bangladesh": 0.12
+    },
+    "default": {
+      "China": 1.45
+    }
+  }
+  
