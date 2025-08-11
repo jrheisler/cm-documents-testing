@@ -1,0 +1,5 @@
+{
+  "title": "tariff-data.js",
+  "path": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/tariff-data.js",
+  "summary": "The default origin is \"China\" The default tariff table is 0.25% for electronics and 0.10% for apparel. The default default origin could be enhanced with a popup later. A popup could be added to the default origin to make it even more powerful."
+}
