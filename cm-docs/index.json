@@ -3091,5 +3091,24 @@
       "bpmn",
       "public"
     ]
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "BPMN-public",
+    "title": "flow.png",
+    "status": "draft",
+    "filename": "flow.png",
+    "createdAt": "2025-08-11T12:49:15.771Z",
+    "lastUpdated": "2025-08-11T12:49:15.771Z",
+    "id": "flow",
+    "summary": "",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/flow.png",
+    "tokens": [
+      "flow",
+      "png",
+      "bpmn",
+      "public"
+    ]
   }
 ]
