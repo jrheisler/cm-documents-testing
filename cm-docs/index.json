@@ -2920,5 +2920,47 @@
       "security",
       "true"
     ]
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "BPMN",
+    "title": "package.json",
+    "status": "draft",
+    "filename": "package.json",
+    "createdAt": "2025-08-11T12:48:21.825Z",
+    "lastUpdated": "2025-08-11T12:48:21.825Z",
+    "id": "package",
+    "summary": "\"dependencies\": { \"bpmn-auto-layout\": \"^1.0.1\", \"bPMn-js-properties-panel\": \" ^5.37.0\", \"camunda-bPMN-moddle\": \"#7.0,\" \"diagram-js\"-minimap: \"^5.2.0\" }. \"dependencies\" include: \"b pmn\", \"cpmn,\" \"camunda\", \"dpi\", \"fpmn\", and \"dpmn\"",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/package.json",
+    "tokens": [
+      "package",
+      "json",
+      "bpmn",
+      "dependencies",
+      "auto",
+      "layout",
+      "1",
+      "0",
+      "js",
+      "properties",
+      "panel",
+      "5",
+      "37",
+      "camunda",
+      "moddle",
+      "7",
+      "diagram",
+      "minimap",
+      "2",
+      "include",
+      "b",
+      "pmn",
+      "cpmn",
+      "dpi",
+      "fpmn",
+      "and",
+      "dpmn"
+    ]
   }
 ]
