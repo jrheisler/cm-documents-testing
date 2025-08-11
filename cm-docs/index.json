@@ -2962,5 +2962,24 @@
       "and",
       "dpmn"
     ]
+  },
+  {
+    "description": "",
+    "meta": "",
+    "category": "BPMN",
+    "title": "package-lock.json",
+    "status": "draft",
+    "filename": "package-lock.json",
+    "createdAt": "2025-08-11T12:48:28.462Z",
+    "lastUpdated": "2025-08-11T12:48:28.462Z",
+    "id": "package-lock",
+    "summary": "",
+    "url": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/package-lock.json",
+    "tokens": [
+      "package",
+      "lock",
+      "json",
+      "bpmn"
+    ]
   }
 ]
