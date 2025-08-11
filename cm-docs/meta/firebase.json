@@ -1,0 +1,5 @@
+{
+  "title": "firebase.json",
+  "path": "https://raw.githubusercontent.com/jrheisler/cm-documents-testing/main/cm-docs/docs/firebase.json",
+  "summary": "\"hosting\" is defined as \"firebase\" and \"node_modules\" is set to \"ignore\" by default. \"ignore\": [\"firebase.json\", \"**/.*\", \" node_modules\", \"ignore\"), \"hosting\": \"public\", \"node-modules\" , \"ignore\", \"host\": \"host\", \"public\": \" public\", \"nodes\": \"**/node_ modules\", \"private\": \"private\", \"root\": \"root\", \"privileged\": \"privilege-increment\", \"conflict\": \"false\", \"security\": \"true\" });"
+}
